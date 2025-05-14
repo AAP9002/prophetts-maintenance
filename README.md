@@ -1,3 +1,6 @@
+[![Spellcheck](https://github.com/AAP9002/prophetts-maintenance/actions/workflows/spellcheck.yml/badge.svg)](https://github.com/AAP9002/prophetts-maintenance/actions/workflows/spellcheck.yml)
+[![Deploy static content to Pages](https://github.com/AAP9002/prophetts-maintenance/actions/workflows/static.yml/badge.svg)](https://github.com/AAP9002/prophetts-maintenance/actions/workflows/static.yml)
+
 # Prophetts Soft Drinks LTD - Maintenance Page
 
 This is a simple static HTML page styled with Tailwind CSS to notify users that the Prophetts Soft Drinks LTD website is currently down for maintenance.
